@@ -276,9 +276,12 @@ Because this template use Webpack maybe you can get errors during deployment, Pl
 
 **[WATCH NOW MY STEP-BY-STEP TUTORIAL FOR DEPLOYMENT](https://www.youtube.com/watch?v=soaG3GNSxJY)**
 
+<<<<<<< HEAD
 ## Others versions made by the community:
 
 [Simplefolio Ember.js](https://github.com/sernadesigns/simplefolio-ember) by [Michael Serna](https://github.com/sernadesigns)
+=======
+>>>>>>> 694056e9c8ba67a4af307d096de29d93d6eb06c0
 
 ## Technologies used 🛠️
 
@@ -287,9 +290,12 @@ Because this template use Webpack maybe you can get errors during deployment, Pl
 - [Sass](https://sass-lang.com/documentation) - CSS extension language
 - [ScrollReveal.js](https://scrollrevealjs.org/) - JavaScript library
 
+<<<<<<< HEAD
 ## Authors
 
 - **Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev)
+=======
+>>>>>>> 694056e9c8ba67a4af307d096de29d93d6eb06c0
 
 ## Status
 
@@ -299,6 +305,9 @@ Because this template use Webpack maybe you can get errors during deployment, Pl
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+<<<<<<< HEAD
 ## Acknowledgments 🎁
 
 I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
+=======
+>>>>>>> 694056e9c8ba67a4af307d096de29d93d6eb06c0
